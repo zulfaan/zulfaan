@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zulfa Nurfajar
-- 👀 I’m interested in Go-Lang Development, Data Sciences, and GIS
-- 🌱 I’m currently learning Go-Lang
-- 💞️ I’m looking to collaborate on Go-Lang projects
+- 👀 I’m interested in Web Development, Front-End Web, Data Sciences, and GIS
+- 🌱 I’m currently learning HTML, CSS, JS, Boostrap, Go-Lang
+- 💞️ I’m looking to collaborate on Front-End Web
 - 📫 How to reach me znurfajar@gmail.com or @longlive1984 (Twitter)
