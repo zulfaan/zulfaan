@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Zulfa Nurfajar
-- 👀 I’m interested in Web Development, Front-End Web, Data Sciences, and GIS
-- 🌱 I’m currently learning HTML, CSS, JS, Boostrap, Go-Lang
-- 💞️ I’m looking to collaborate on Front-End Developer and Web Design
-- 📫 How to reach me znurfajar@gmail.com or @longlive1984 (Twitter)
+- 👀 I’m interested in Web Development, Front-End Web, Data Engineer, and GIS
+- 🌱 I’m currently learning HTML, CSS, JS, Python, and Go-Lang
+- 📫 How to reach me zulfaa.nurfajar@gmail.com
