@@ -23,8 +23,8 @@
 
 ### 📫 Connect with Me  
 📩 **Email:** zulfaa.nurfajar@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/zulfanurfajar]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zulfanurfajar/))  
-📂 **Portfolio:** [Portfolio)]([https://yourportfolio.com](https://docs.google.com/presentation/d/1xH07dVKfJI5hvOAI2Uiye9QJDfltJmg_KbuM_vH38kw/edit#slide=id.g32827ea493a_0_1))  
+💼 **LinkedIn:** [linkedin.com/in/zulfanurfajar](https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zulfanurfajar/)  
+📂 **Portfolio:** [Portfolio](https://docs.google.com/presentation/d/1xH07dVKfJI5hvOAI2Uiye9QJDfltJmg_KbuM_vH38kw/edit#slide=id.g32827ea493a_0_1)  
 
 ---
 
